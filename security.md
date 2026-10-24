@@ -179,3 +179,5 @@ That avoids spending an hour on a batch that had the wrong settings.
 ---
 
 *video-editor-workspace · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- last reviewed 2026-10-24 -->
