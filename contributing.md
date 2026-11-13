@@ -178,4 +178,4 @@ That avoids spending an hour on a batch that had the wrong settings.
 
 ---
 
-*video-editor-workspace · Updated 2026-11-12 · Shared under the MIT License*
+*video-editor-workspace · Updated 2026-11-13 · Shared under the MIT License*
